@@ -1,101 +1,101 @@
-cliente_id,nome,email,idade,genero,cidade,estado,data_cadastro,canal_aquisicao
-C1000,Elizabeth Cohen,karensolis@gmail.com,34,Feminino,Stevenshire,MA,2023-08-16,Instagram
-C1001,John Holmes,sandrayu@gmail.com,22,Outro,North Brendanview,LA,2025-01-24,Instagram
-C1002,Katherine Potter,frankcortez@ford-wallace.net,56,Masculino,Millerburgh,WA,2023-08-08,Indicação
-C1003,Cassidy Lucas,danieldunn@hotmail.com,49,Masculino,Conleytown,NC,2023-09-28,Facebook
-C1004,Kelly Fuentes,ericthomas@yahoo.com,37,Outro,Cynthiafort,GA,2024-06-30,Google Ads
-C1005,Kristen Morales DVM,veronica83@morgan.com,22,Feminino,South Jeremy,MO,2023-07-23,Site
-C1006,Laura David,audreyjohnson@yahoo.com,45,Feminino,South Emily,AL,2023-07-19,Indicação
-C1007,Laura Conley,randyevans@baker.info,57,Feminino,Riverafort,WA,2024-01-15,Site
-C1008,Amy Solomon,gardnererica@yahoo.com,40,Outro,East Jayburgh,AZ,2024-08-15,Google Ads
-C1009,Michael Johnson,qmurphy@avila.com,29,Masculino,South Yolandatown,MI,2024-08-08,Instagram
-C1010,Kristie Herrera,austinowens@hess.net,35,Masculino,East Michael,MT,2023-07-13,Google Ads
-C1011,Shane Sherman,barnesanthony@rodriguez-graves.com,56,Outro,Dianemouth,UT,2023-11-18,Instagram
-C1012,Kenneth Briggs,wwalsh@hotmail.com,25,Feminino,Lake Christopher,NM,2024-12-30,Google Ads
-C1013,Lisa Malone,sherri80@wells.info,32,Feminino,Zacharyville,MI,2024-08-01,Google Ads
-C1014,Ricardo Chang,sandrarush@gonzalez-brown.com,26,Masculino,Nicoleville,MA,2025-02-27,Site
-C1015,Ashley Johnson,austinaaron@gmail.com,49,Feminino,New Crystal,RI,2025-01-13,Site
-C1016,Rachel Johnson,lewischristopher@edwards.info,59,Feminino,North Christopherville,KS,2023-05-27,Facebook
-C1017,Loretta Meyers,gary55@moore.biz,49,Feminino,West Joshuachester,CT,2025-04-24,Instagram
-C1018,Drew Rodriguez,amanda11@gmail.com,57,Feminino,Port Marktown,NJ,2024-07-20,Indicação
-C1019,Lorraine Mcguire,alexandria00@mclaughlin-gonzalez.net,19,Feminino,Ashleyberg,SD,2024-05-07,Instagram
-C1020,Patrick Blankenship,larrylane@thompson-wilson.com,36,Outro,East Kellie,WA,2024-02-19,Instagram
-C1021,David Tran,amy22@ashley.net,40,Masculino,West Phillip,VT,2023-11-25,Google Ads
-C1022,Sarah Goodwin,briannagonzalez@bush-shelton.info,54,Masculino,South Scott,RI,2025-04-05,Google Ads
-C1023,Mr. Chad Johnson,stephanieramos@jordan.com,37,Masculino,North Marystad,PA,2023-11-15,Indicação
-C1024,John Bennett,kevinrodriguez@smith-cohen.info,57,Feminino,Ashleymouth,AZ,2025-04-24,Google Ads
-C1025,Allison Valenzuela,dianasullivan@murphy.com,25,Outro,Michaelhaven,UT,2024-01-07,Google Ads
-C1026,Felicia Joseph,nquinn@yahoo.com,36,Outro,West Michellehaven,KY,2024-09-19,Indicação
-C1027,Brittany Humphrey,martinbryan@gmail.com,49,Masculino,North Tina,MO,2024-05-31,Indicação
-C1028,Bryan Ellis,bbrown@hotmail.com,49,Masculino,Tannerchester,LA,2024-07-12,Google Ads
-C1029,Brian Anderson,doylejason@gmail.com,39,Masculino,Port Darryl,DC,2024-04-14,Site
-C1030,Mary Olsen,knightkeith@roberts.com,26,Masculino,East Michael,KS,2023-06-04,Facebook
-C1031,Brent Harrison,jenniferellis@gmail.com,35,Outro,Fischerstad,DE,2024-05-20,Site
-C1032,Anthony Bishop,mark98@yahoo.com,58,Masculino,Pamelaport,NC,2024-04-11,Facebook
-C1033,Eduardo Campos,adam80@medina-roman.org,59,Masculino,West Aprilborough,MN,2024-08-07,Google Ads
-C1034,Jennifer Matthews,caleblandry@hotmail.com,22,Masculino,West James,VT,2023-08-20,Indicação
-C1035,Carla Lynch,hatfieldrita@wilkerson.info,30,Masculino,Sandraland,ME,2024-05-11,Site
-C1036,Jamie Smith,douglas63@hotmail.com,31,Masculino,East Michaelhaven,NC,2023-09-27,Facebook
-C1037,Mark Waller,lopezjoshua@gmail.com,18,Masculino,Kendrahaven,NE,2023-10-05,Indicação
-C1038,Nicole Walker,gwilson@hotmail.com,27,Outro,West Rodneyborough,AZ,2025-03-05,Google Ads
-C1039,Shawn Schwartz,pvilla@hinton.com,22,Feminino,East Samanthahaven,WA,2024-09-24,Facebook
-C1040,Douglas Schaefer,vkelly@powers.com,52,Outro,Coltonburgh,CT,2024-12-17,Facebook
-C1041,Autumn Evans,whitenicole@hotmail.com,25,Outro,Brettberg,NJ,2024-12-23,Indicação
-C1042,Victoria Hopkins,zaguilar@hotmail.com,50,Masculino,Thomasberg,WA,2024-12-30,Site
-C1043,Jennifer Moran,josephreyes@hotmail.com,35,Outro,West Tonyberg,OK,2023-05-31,Facebook
-C1044,Caleb Osborn,connietaylor@gmail.com,21,Feminino,Erikaville,MO,2024-07-11,Instagram
-C1045,Christopher Wallace,cookdennis@yahoo.com,23,Outro,Lucasport,VA,2024-02-27,Indicação
-C1046,Derek Salazar,kylefisher@gmail.com,59,Feminino,South David,PA,2025-04-01,Site
-C1047,Kelly Lee,xgriffith@yahoo.com,46,Masculino,Port Johnfort,WA,2024-04-13,Site
-C1048,Sara Anderson,zsampson@sims.com,33,Feminino,Christopherborough,WA,2024-04-24,Instagram
-C1049,Kristi Woods,fking@yahoo.com,21,Masculino,Cameronfurt,NV,2023-09-16,Instagram
-C1050,Christina Watts,nicolecaldwell@hotmail.com,23,Masculino,Villanuevashire,VA,2024-07-23,Indicação
-C1051,Nicholas Maldonado,ericmason@ballard-sanford.biz,42,Masculino,New Margaret,AZ,2023-09-23,Instagram
-C1052,Samuel Santiago,unewton@decker.com,33,Outro,West Joy,RI,2024-05-31,Site
-C1053,David Ray,ujones@hotmail.com,59,Masculino,Lake Debraberg,CA,2023-08-24,Site
-C1054,Thomas Estrada,laura98@yahoo.com,56,Feminino,West Annetteport,SD,2023-12-22,Google Ads
-C1055,Kristin Randall,william79@yahoo.com,48,Masculino,East Courtneyfort,NH,2024-08-28,Facebook
-C1056,Veronica Mccoy,aaronburton@gray-ross.com,30,Masculino,Spencerberg,LA,2024-09-29,Google Ads
-C1057,Paul Osborn,robindunn@yahoo.com,31,Outro,Edwintown,SD,2025-02-18,Site
-C1058,Kathleen Anderson,mariaharper@gmail.com,54,Outro,Johnstad,DC,2025-01-06,Site
-C1059,William Nelson,yduncan@gmail.com,40,Outro,New Jeffreyburgh,MI,2024-09-28,Google Ads
-C1060,Stephanie Hart,kevinrobinson@martinez.com,38,Masculino,East Bradley,IN,2025-05-03,Indicação
-C1061,Jonathan Cooper,georgereyes@johnson-kerr.info,54,Outro,Joshuaberg,AR,2023-06-21,Google Ads
-C1062,Victoria Rogers,sgarrett@miller.org,53,Masculino,Dennismouth,CT,2023-06-11,Instagram
-C1063,James Barker,kimberlyjackson@yahoo.com,44,Outro,Melissahaven,MN,2025-03-26,Facebook
-C1064,Aaron Small,robert98@hernandez.net,33,Masculino,South Annettebury,ID,2024-12-23,Google Ads
-C1065,Steven Lara,daniel86@fleming.com,38,Feminino,Knighttown,MO,2023-11-15,Google Ads
-C1066,Hannah Shah,patrick49@quinn-shaw.org,53,Masculino,Margaretburgh,AR,2025-04-29,Google Ads
-C1067,Patricia Hughes,jefferywilliams@yahoo.com,49,Outro,South Nicholas,ME,2024-08-22,Instagram
-C1068,Connie Long,twheeler@gmail.com,49,Masculino,Trujilloton,AR,2024-04-16,Site
-C1069,Brianna Taylor,rodrigueznicholas@hotmail.com,40,Masculino,Debraland,TN,2024-10-09,Instagram
-C1070,April Tucker,matthewbrown@schneider-lozano.com,39,Outro,Danielsmouth,MA,2023-10-25,Site
-C1071,Hailey Hill,kirkryan@yahoo.com,59,Feminino,East Joshua,MD,2024-06-28,Facebook
-C1072,Evelyn Moody,schultzkarina@lynch-hicks.com,57,Feminino,North Lauren,OH,2024-01-02,Facebook
-C1073,Adrian Harris,ibell@thomas.com,20,Masculino,East Christopherstad,CA,2023-07-02,Google Ads
-C1074,Charles Velasquez,smoore@morgan-zimmerman.com,49,Masculino,South Nicolemouth,IA,2024-03-07,Facebook
-C1075,Andrew Richardson,brianmack@yahoo.com,19,Feminino,Wilsonton,MI,2025-03-08,Indicação
-C1076,Trevor Acosta,jensenalison@larsen.com,59,Masculino,New Rhondaland,WV,2024-09-16,Google Ads
-C1077,Jeremy Reid,tylerdouglas@nichols-fleming.net,37,Feminino,Davidmouth,OR,2024-12-07,Google Ads
-C1078,Catherine Rodriguez,katherine18@meyers.com,22,Feminino,Lake Scott,WA,2024-03-22,Indicação
-C1079,Robert Johnson,ramoshannah@hernandez.com,33,Masculino,West Richardhaven,RI,2023-07-30,Google Ads
-C1080,Christina Cordova,jeffery37@hughes-mitchell.com,19,Masculino,Reginamouth,NY,2025-04-29,Site
-C1081,Kimberly West,zlee@hotmail.com,59,Masculino,South Lisachester,TN,2023-06-20,Site
-C1082,Melissa Pugh,leslie28@gmail.com,41,Outro,Allenmouth,CO,2023-12-12,Google Ads
-C1083,Lori Lewis MD,brettellis@hotmail.com,38,Feminino,Cynthiaton,VA,2023-12-19,Site
-C1084,James Duncan,tony34@holder-watson.com,22,Feminino,Smithmouth,MA,2024-08-21,Site
-C1085,Jaclyn Webster,michaelromero@wells.biz,28,Feminino,Brittanyland,AK,2023-06-12,Site
-C1086,Michelle Herman,ochoajuan@yahoo.com,37,Outro,Laurenport,NV,2024-02-18,Google Ads
-C1087,Luis Thomas DDS,sean07@thompson.com,41,Feminino,Greeneburgh,IA,2024-04-28,Instagram
-C1088,Kimberly Garner,smithlisa@reyes.biz,33,Outro,South Julie,ME,2025-03-07,Indicação
-C1089,Stephanie Mann,michellecannon@yahoo.com,50,Outro,Lake Olivia,IN,2023-06-12,Facebook
-C1090,Tristan Velasquez,ericesparza@hotmail.com,47,Masculino,South Frederickborough,OH,2025-02-22,Facebook
-C1091,Andrew Kelly,keithjoseph@martin.com,36,Masculino,Port Lonnie,NM,2024-09-08,Facebook
-C1092,Nicole Hill,kproctor@glenn.com,43,Outro,North Craig,FL,2023-08-22,Indicação
-C1093,Michele Schultz,lisahernandez@gmail.com,56,Feminino,Gonzalezport,NE,2025-05-12,Indicação
-C1094,Sandra Allen,dixonnicholas@davenport.info,59,Outro,Peterview,OR,2023-07-14,Instagram
-C1095,Lacey Goodwin,tstone@gmail.com,18,Outro,New Donaldborough,MN,2023-09-01,Facebook
-C1096,Daniel Durham,taylorlawrence@lopez-garrett.com,36,Masculino,New Jamesbury,MT,2023-07-13,Instagram
-C1097,Katherine Burke,suzanne13@hotmail.com,29,Masculino,North Steveside,KY,2024-04-14,Instagram
-C1098,Randy Rose,kimoneill@yahoo.com,26,Masculino,Jennifermouth,NH,2024-04-12,Instagram
-C1099,Dennis Henry,hoffmanmelissa@gmail.com,57,Feminino,North Scott,KY,2025-02-24,Facebook
+cliente_id;nome;email;idade;genero;cidade;estado;data_cadastro;canal_aquisicao
+C1000;Elizabeth Cohen;karensolis@gmail.com;34;Feminino;Stevenshire;MA;16/08/2023;Instagram
+C1001;John Holmes;sandrayu@gmail.com;22;Outro;North Brendanview;LA;24/01/2025;Instagram
+C1002;Katherine Potter;frankcortez@ford-wallace.net;56;Masculino;Millerburgh;WA;08/08/2023;indicacao
+C1003;Cassidy Lucas;danieldunn@hotmail.com;49;Masculino;Conleytown;NC;28/09/2023;Facebook
+C1004;Kelly Fuentes;ericthomas@yahoo.com;37;Outro;Cynthiafort;GA;30/06/2024;Google Ads
+C1005;Kristen Morales DVM;veronica83@morgan.com;22;Feminino;South Jeremy;MO;23/07/2023;Site
+C1006;Laura David;audreyjohnson@yahoo.com;45;Feminino;South Emily;AL;19/07/2023;indicacao
+C1007;Laura Conley;randyevans@baker.info;57;Feminino;Riverafort;WA;15/01/2024;Site
+C1008;Amy Solomon;gardnererica@yahoo.com;40;Outro;East Jayburgh;AZ;15/08/2024;Google Ads
+C1009;Michael Johnson;qmurphy@avila.com;29;Masculino;South Yolandatown;MI;08/08/2024;Instagram
+C1010;Kristie Herrera;austinowens@hess.net;35;Masculino;East Michael;MT;13/07/2023;Google Ads
+C1011;Shane Sherman;barnesanthony@rodriguez-graves.com;56;Outro;Dianemouth;UT;18/11/2023;Instagram
+C1012;Kenneth Briggs;wwalsh@hotmail.com;25;Feminino;Lake Christopher;NM;30/12/2024;Google Ads
+C1013;Lisa Malone;sherri80@wells.info;32;Feminino;Zacharyville;MI;01/08/2024;Google Ads
+C1014;Ricardo Chang;sandrarush@gonzalez-brown.com;26;Masculino;Nicoleville;MA;27/02/2025;Site
+C1015;Ashley Johnson;austinaaron@gmail.com;49;Feminino;New Crystal;RI;13/01/2025;Site
+C1016;Rachel Johnson;lewischristopher@edwards.info;59;Feminino;North Christopherville;KS;27/05/2023;Facebook
+C1017;Loretta Meyers;gary55@moore.biz;49;Feminino;West Joshuachester;CT;24/04/2025;Instagram
+C1018;Drew Rodriguez;amanda11@gmail.com;57;Feminino;Port Marktown;NJ;20/07/2024;indicacao
+C1019;Lorraine Mcguire;alexandria00@mclaughlin-gonzalez.net;19;Feminino;Ashleyberg;SD;07/05/2024;Instagram
+C1020;Patrick Blankenship;larrylane@thompson-wilson.com;36;Outro;East Kellie;WA;19/02/2024;Instagram
+C1021;David Tran;amy22@ashley.net;40;Masculino;West Phillip;VT;25/11/2023;Google Ads
+C1022;Sarah Goodwin;briannagonzalez@bush-shelton.info;54;Masculino;South Scott;RI;05/04/2025;Google Ads
+C1023;Mr. Chad Johnson;stephanieramos@jordan.com;37;Masculino;North Marystad;PA;15/11/2023;indicacao
+C1024;John Bennett;kevinrodriguez@smith-cohen.info;57;Feminino;Ashleymouth;AZ;24/04/2025;Google Ads
+C1025;Allison Valenzuela;dianasullivan@murphy.com;25;Outro;Michaelhaven;UT;07/01/2024;Google Ads
+C1026;Felicia Joseph;nquinn@yahoo.com;36;Outro;West Michellehaven;KY;19/09/2024;indicacao
+C1027;Brittany Humphrey;martinbryan@gmail.com;49;Masculino;North Tina;MO;31/05/2024;indicacao
+C1028;Bryan Ellis;bbrown@hotmail.com;49;Masculino;Tannerchester;LA;12/07/2024;Google Ads
+C1029;Brian Anderson;doylejason@gmail.com;39;Masculino;Port Darryl;DC;14/04/2024;Site
+C1030;Mary Olsen;knightkeith@roberts.com;26;Masculino;East Michael;KS;04/06/2023;Facebook
+C1031;Brent Harrison;jenniferellis@gmail.com;35;Outro;Fischerstad;DE;20/05/2024;Site
+C1032;Anthony Bishop;mark98@yahoo.com;58;Masculino;Pamelaport;NC;11/04/2024;Facebook
+C1033;Eduardo Campos;adam80@medina-roman.org;59;Masculino;West Aprilborough;MN;07/08/2024;Google Ads
+C1034;Jennifer Matthews;caleblandry@hotmail.com;22;Masculino;West James;VT;20/08/2023;indicacao
+C1035;Carla Lynch;hatfieldrita@wilkerson.info;30;Masculino;Sandraland;ME;11/05/2024;Site
+C1036;Jamie Smith;douglas63@hotmail.com;31;Masculino;East Michaelhaven;NC;27/09/2023;Facebook
+C1037;Mark Waller;lopezjoshua@gmail.com;18;Masculino;Kendrahaven;NE;05/10/2023;indicacao
+C1038;Nicole Walker;gwilson@hotmail.com;27;Outro;West Rodneyborough;AZ;05/03/2025;Google Ads
+C1039;Shawn Schwartz;pvilla@hinton.com;22;Feminino;East Samanthahaven;WA;24/09/2024;Facebook
+C1040;Douglas Schaefer;vkelly@powers.com;52;Outro;Coltonburgh;CT;17/12/2024;Facebook
+C1041;Autumn Evans;whitenicole@hotmail.com;25;Outro;Brettberg;NJ;23/12/2024;indicacao
+C1042;Victoria Hopkins;zaguilar@hotmail.com;50;Masculino;Thomasberg;WA;30/12/2024;Site
+C1043;Jennifer Moran;josephreyes@hotmail.com;35;Outro;West Tonyberg;OK;31/05/2023;Facebook
+C1044;Caleb Osborn;connietaylor@gmail.com;21;Feminino;Erikaville;MO;11/07/2024;Instagram
+C1045;Christopher Wallace;cookdennis@yahoo.com;23;Outro;Lucasport;VA;27/02/2024;indicacao
+C1046;Derek Salazar;kylefisher@gmail.com;59;Feminino;South David;PA;01/04/2025;Site
+C1047;Kelly Lee;xgriffith@yahoo.com;46;Masculino;Port Johnfort;WA;13/04/2024;Site
+C1048;Sara Anderson;zsampson@sims.com;33;Feminino;Christopherborough;WA;24/04/2024;Instagram
+C1049;Kristi Woods;fking@yahoo.com;21;Masculino;Cameronfurt;NV;16/09/2023;Instagram
+C1050;Christina Watts;nicolecaldwell@hotmail.com;23;Masculino;Villanuevashire;VA;23/07/2024;indicacao
+C1051;Nicholas Maldonado;ericmason@ballard-sanford.biz;42;Masculino;New Margaret;AZ;23/09/2023;Instagram
+C1052;Samuel Santiago;unewton@decker.com;33;Outro;West Joy;RI;31/05/2024;Site
+C1053;David Ray;ujones@hotmail.com;59;Masculino;Lake Debraberg;CA;24/08/2023;Site
+C1054;Thomas Estrada;laura98@yahoo.com;56;Feminino;West Annetteport;SD;22/12/2023;Google Ads
+C1055;Kristin Randall;william79@yahoo.com;48;Masculino;East Courtneyfort;NH;28/08/2024;Facebook
+C1056;Veronica Mccoy;aaronburton@gray-ross.com;30;Masculino;Spencerberg;LA;29/09/2024;Google Ads
+C1057;Paul Osborn;robindunn@yahoo.com;31;Outro;Edwintown;SD;18/02/2025;Site
+C1058;Kathleen Anderson;mariaharper@gmail.com;54;Outro;Johnstad;DC;06/01/2025;Site
+C1059;William Nelson;yduncan@gmail.com;40;Outro;New Jeffreyburgh;MI;28/09/2024;Google Ads
+C1060;Stephanie Hart;kevinrobinson@martinez.com;38;Masculino;East Bradley;IN;03/05/2025;indicacao
+C1061;Jonathan Cooper;georgereyes@johnson-kerr.info;54;Outro;Joshuaberg;AR;21/06/2023;Google Ads
+C1062;Victoria Rogers;sgarrett@miller.org;53;Masculino;Dennismouth;CT;11/06/2023;Instagram
+C1063;James Barker;kimberlyjackson@yahoo.com;44;Outro;Melissahaven;MN;26/03/2025;Facebook
+C1064;Aaron Small;robert98@hernandez.net;33;Masculino;South Annettebury;ID;23/12/2024;Google Ads
+C1065;Steven Lara;daniel86@fleming.com;38;Feminino;Knighttown;MO;15/11/2023;Google Ads
+C1066;Hannah Shah;patrick49@quinn-shaw.org;53;Masculino;Margaretburgh;AR;29/04/2025;Google Ads
+C1067;Patricia Hughes;jefferywilliams@yahoo.com;49;Outro;South Nicholas;ME;22/08/2024;Instagram
+C1068;Connie Long;twheeler@gmail.com;49;Masculino;Trujilloton;AR;16/04/2024;Site
+C1069;Brianna Taylor;rodrigueznicholas@hotmail.com;40;Masculino;Debraland;TN;09/10/2024;Instagram
+C1070;April Tucker;matthewbrown@schneider-lozano.com;39;Outro;Danielsmouth;MA;25/10/2023;Site
+C1071;Hailey Hill;kirkryan@yahoo.com;59;Feminino;East Joshua;MD;28/06/2024;Facebook
+C1072;Evelyn Moody;schultzkarina@lynch-hicks.com;57;Feminino;North Lauren;OH;02/01/2024;Facebook
+C1073;Adrian Harris;ibell@thomas.com;20;Masculino;East Christopherstad;CA;02/07/2023;Google Ads
+C1074;Charles Velasquez;smoore@morgan-zimmerman.com;49;Masculino;South Nicolemouth;IA;07/03/2024;Facebook
+C1075;Andrew Richardson;brianmack@yahoo.com;19;Feminino;Wilsonton;MI;08/03/2025;indicacao
+C1076;Trevor Acosta;jensenalison@larsen.com;59;Masculino;New Rhondaland;WV;16/09/2024;Google Ads
+C1077;Jeremy Reid;tylerdouglas@nichols-fleming.net;37;Feminino;Davidmouth;OR;07/12/2024;Google Ads
+C1078;Catherine Rodriguez;katherine18@meyers.com;22;Feminino;Lake Scott;WA;22/03/2024;indicacao
+C1079;Robert Johnson;ramoshannah@hernandez.com;33;Masculino;West Richardhaven;RI;30/07/2023;Google Ads
+C1080;Christina Cordova;jeffery37@hughes-mitchell.com;19;Masculino;Reginamouth;NY;29/04/2025;Site
+C1081;Kimberly West;zlee@hotmail.com;59;Masculino;South Lisachester;TN;20/06/2023;Site
+C1082;Melissa Pugh;leslie28@gmail.com;41;Outro;Allenmouth;CO;12/12/2023;Google Ads
+C1083;Lori Lewis MD;brettellis@hotmail.com;38;Feminino;Cynthiaton;VA;19/12/2023;Site
+C1084;James Duncan;tony34@holder-watson.com;22;Feminino;Smithmouth;MA;21/08/2024;Site
+C1085;Jaclyn Webster;michaelromero@wells.biz;28;Feminino;Brittanyland;AK;12/06/2023;Site
+C1086;Michelle Herman;ochoajuan@yahoo.com;37;Outro;Laurenport;NV;18/02/2024;Google Ads
+C1087;Luis Thomas DDS;sean07@thompson.com;41;Feminino;Greeneburgh;IA;28/04/2024;Instagram
+C1088;Kimberly Garner;smithlisa@reyes.biz;33;Outro;South Julie;ME;07/03/2025;indicacao
+C1089;Stephanie Mann;michellecannon@yahoo.com;50;Outro;Lake Olivia;IN;12/06/2023;Facebook
+C1090;Tristan Velasquez;ericesparza@hotmail.com;47;Masculino;South Frederickborough;OH;22/02/2025;Facebook
+C1091;Andrew Kelly;keithjoseph@martin.com;36;Masculino;Port Lonnie;NM;08/09/2024;Facebook
+C1092;Nicole Hill;kproctor@glenn.com;43;Outro;North Craig;FL;22/08/2023;indicacao
+C1093;Michele Schultz;lisahernandez@gmail.com;56;Feminino;Gonzalezport;NE;12/05/2025;indicacao
+C1094;Sandra Allen;dixonnicholas@davenport.info;59;Outro;Peterview;OR;14/07/2023;Instagram
+C1095;Lacey Goodwin;tstone@gmail.com;18;Outro;New Donaldborough;MN;01/09/2023;Facebook
+C1096;Daniel Durham;taylorlawrence@lopez-garrett.com;36;Masculino;New Jamesbury;MT;13/07/2023;Instagram
+C1097;Katherine Burke;suzanne13@hotmail.com;29;Masculino;North Steveside;KY;14/04/2024;Instagram
+C1098;Randy Rose;kimoneill@yahoo.com;26;Masculino;Jennifermouth;NH;12/04/2024;Instagram
+C1099;Dennis Henry;hoffmanmelissa@gmail.com;57;Feminino;North Scott;KY;24/02/2025;Facebook
