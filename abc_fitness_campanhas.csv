@@ -1,0 +1,101 @@
+campanha_id,cliente_id,campanha,canal,data_interacao,resultado
+M3000,C1017,Black Friday,WhatsApp,2025-05-19,Clique
+M3001,C1005,Plano Família,Instagram,2025-05-19,Ignorado
+M3002,C1031,Desconto Anual,Facebook,2025-05-19,Clique
+M3003,C1057,Plano Família,Instagram,2025-05-19,Clique
+M3004,C1088,Black Friday,Email,2025-05-19,Visualização
+M3005,C1035,Aula Grátis,Instagram,2025-05-19,Visualização
+M3006,C1082,Black Friday,Email,2025-05-19,Ignorado
+M3007,C1091,Desconto Anual,Instagram,2025-05-19,Visualização
+M3008,C1015,Plano Família,WhatsApp,2025-05-19,Clique
+M3009,C1028,Volta aos treinos,Facebook,2025-05-19,Conversão
+M3010,C1011,Volta aos treinos,Instagram,2025-05-19,Clique
+M3011,C1083,Plano Família,Facebook,2025-05-19,Conversão
+M3012,C1024,Desconto Anual,WhatsApp,2025-05-19,Visualização
+M3013,C1032,Black Friday,WhatsApp,2025-05-19,Visualização
+M3014,C1076,Plano Família,Instagram,2025-05-19,Clique
+M3015,C1099,Plano Família,Facebook,2025-05-19,Conversão
+M3016,C1090,Desconto Anual,WhatsApp,2025-05-19,Conversão
+M3017,C1057,Aula Grátis,Instagram,2025-05-19,Conversão
+M3018,C1045,Volta aos treinos,Instagram,2025-05-19,Ignorado
+M3019,C1062,Plano Família,WhatsApp,2025-05-19,Visualização
+M3020,C1085,Volta aos treinos,WhatsApp,2025-05-19,Clique
+M3021,C1057,Plano Família,Email,2025-05-19,Ignorado
+M3022,C1037,Aula Grátis,WhatsApp,2025-05-19,Clique
+M3023,C1073,Volta aos treinos,WhatsApp,2025-05-19,Clique
+M3024,C1015,Desconto Anual,Email,2025-05-19,Ignorado
+M3025,C1060,Black Friday,WhatsApp,2025-05-19,Visualização
+M3026,C1035,Aula Grátis,Instagram,2025-05-19,Conversão
+M3027,C1036,Plano Família,Email,2025-05-19,Visualização
+M3028,C1089,Volta aos treinos,Email,2025-05-19,Visualização
+M3029,C1012,Plano Família,Email,2025-05-19,Ignorado
+M3030,C1004,Desconto Anual,WhatsApp,2025-05-19,Clique
+M3031,C1024,Aula Grátis,Email,2025-05-19,Visualização
+M3032,C1021,Plano Família,WhatsApp,2025-05-19,Ignorado
+M3033,C1046,Volta aos treinos,Instagram,2025-05-19,Visualização
+M3034,C1001,Aula Grátis,Email,2025-05-19,Clique
+M3035,C1032,Black Friday,Facebook,2025-05-19,Clique
+M3036,C1002,Volta aos treinos,Email,2025-05-19,Conversão
+M3037,C1025,Black Friday,Instagram,2025-05-19,Conversão
+M3038,C1011,Black Friday,Email,2025-05-19,Clique
+M3039,C1012,Plano Família,WhatsApp,2025-05-19,Conversão
+M3040,C1066,Aula Grátis,Email,2025-05-19,Conversão
+M3041,C1086,Volta aos treinos,Facebook,2025-05-19,Clique
+M3042,C1088,Aula Grátis,WhatsApp,2025-05-19,Ignorado
+M3043,C1021,Plano Família,Facebook,2025-05-19,Clique
+M3044,C1026,Volta aos treinos,WhatsApp,2025-05-19,Clique
+M3045,C1000,Aula Grátis,Instagram,2025-05-19,Conversão
+M3046,C1060,Plano Família,WhatsApp,2025-05-19,Ignorado
+M3047,C1063,Black Friday,Email,2025-05-19,Visualização
+M3048,C1010,Aula Grátis,Email,2025-05-19,Conversão
+M3049,C1051,Plano Família,WhatsApp,2025-05-19,Visualização
+M3050,C1025,Aula Grátis,Email,2025-05-19,Clique
+M3051,C1047,Black Friday,Facebook,2025-05-19,Clique
+M3052,C1017,Plano Família,Facebook,2025-05-19,Ignorado
+M3053,C1002,Plano Família,Instagram,2025-05-19,Conversão
+M3054,C1014,Desconto Anual,Facebook,2025-05-19,Visualização
+M3055,C1015,Aula Grátis,Email,2025-05-19,Conversão
+M3056,C1056,Black Friday,WhatsApp,2025-05-19,Conversão
+M3057,C1035,Black Friday,Facebook,2025-05-19,Conversão
+M3058,C1073,Plano Família,Email,2025-05-19,Visualização
+M3059,C1003,Aula Grátis,Instagram,2025-05-19,Conversão
+M3060,C1023,Plano Família,Instagram,2025-05-19,Visualização
+M3061,C1065,Desconto Anual,WhatsApp,2025-05-19,Clique
+M3062,C1022,Desconto Anual,WhatsApp,2025-05-19,Conversão
+M3063,C1012,Black Friday,Facebook,2025-05-19,Ignorado
+M3064,C1018,Volta aos treinos,Email,2025-05-19,Ignorado
+M3065,C1041,Black Friday,WhatsApp,2025-05-19,Clique
+M3066,C1058,Plano Família,Instagram,2025-05-19,Visualização
+M3067,C1048,Volta aos treinos,Email,2025-05-19,Conversão
+M3068,C1058,Plano Família,Instagram,2025-05-19,Visualização
+M3069,C1051,Desconto Anual,Email,2025-05-19,Clique
+M3070,C1009,Volta aos treinos,Email,2025-05-19,Ignorado
+M3071,C1011,Desconto Anual,Instagram,2025-05-19,Visualização
+M3072,C1009,Plano Família,WhatsApp,2025-05-19,Ignorado
+M3073,C1070,Aula Grátis,WhatsApp,2025-05-19,Visualização
+M3074,C1079,Plano Família,Instagram,2025-05-19,Visualização
+M3075,C1054,Desconto Anual,Facebook,2025-05-19,Conversão
+M3076,C1019,Black Friday,Facebook,2025-05-19,Clique
+M3077,C1036,Volta aos treinos,WhatsApp,2025-05-19,Visualização
+M3078,C1016,Plano Família,WhatsApp,2025-05-19,Visualização
+M3079,C1052,Black Friday,Instagram,2025-05-19,Clique
+M3080,C1023,Aula Grátis,WhatsApp,2025-05-19,Conversão
+M3081,C1054,Desconto Anual,Instagram,2025-05-19,Clique
+M3082,C1054,Volta aos treinos,WhatsApp,2025-05-19,Clique
+M3083,C1035,Aula Grátis,Facebook,2025-05-19,Conversão
+M3084,C1069,Aula Grátis,Instagram,2025-05-19,Conversão
+M3085,C1043,Desconto Anual,Facebook,2025-05-19,Visualização
+M3086,C1065,Desconto Anual,Email,2025-05-19,Clique
+M3087,C1031,Volta aos treinos,Facebook,2025-05-19,Clique
+M3088,C1043,Black Friday,WhatsApp,2025-05-19,Ignorado
+M3089,C1092,Volta aos treinos,WhatsApp,2025-05-19,Visualização
+M3090,C1080,Aula Grátis,WhatsApp,2025-05-19,Conversão
+M3091,C1095,Desconto Anual,WhatsApp,2025-05-19,Clique
+M3092,C1007,Aula Grátis,Instagram,2025-05-19,Conversão
+M3093,C1081,Plano Família,Instagram,2025-05-19,Visualização
+M3094,C1034,Plano Família,Instagram,2025-05-19,Visualização
+M3095,C1004,Plano Família,Instagram,2025-05-19,Clique
+M3096,C1067,Black Friday,Instagram,2025-05-19,Ignorado
+M3097,C1032,Desconto Anual,Email,2025-05-19,Conversão
+M3098,C1001,Desconto Anual,Email,2025-05-19,Ignorado
+M3099,C1092,Desconto Anual,Instagram,2025-05-19,Visualização
