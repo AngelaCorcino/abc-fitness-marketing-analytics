@@ -1,101 +1,101 @@
 venda_id,cliente_id,produto,  valor  ,data_venda,metodo_pagamento
-V2000,C1097,Plano Mensal,1041.87,02/04/2025,Debit
+V2000,C1097,Plano Mensal,1041.87,02/04/2025,Débito
 V2001,C1005,Equipamento,1008.31,18/07/2024,Pix
 V2002,C1054,Aula Personal,1089.14,29/09/2024,Dinheiro
 V2003,C1068,Plano Mensal,961.67,18/03/2025,Dinheiro
 V2004,C1092,Suplemento,960.96,14/01/2025,Dinheiro
 V2005,C1037,Aula Personal,867.65,07/07/2024,Dinheiro
-V2006,C1066,Equipamento,1009.77,07/12/2024,cartao de credito
-V2007,C1083,Equipamento,829.55,26/12/2024,debito
+V2006,C1066,Equipamento,1009.77,07/12/2024,Cartão de Crédito
+V2007,C1083,Equipamento,829.55,26/12/2024,Débito
 V2008,C1040,Plano Anual,1151.09,11/05/2025,Dinheiro
 V2009,C1077,Aula Personal,680.75,02/10/2024,Dinheiro
-V2010,C1027,Equipamento,587.02,05/06/2024,cartao de credito
-V2011,C1051,Suplemento,331.84,23/09/2024,debito
+V2010,C1027,Equipamento,587.02,05/06/2024,Cartão de Crédito
+V2011,C1051,Suplemento,331.84,23/09/2024,Débito
 V2012,C1074,Plano Anual,709.76,20/01/2025,Pix
 V2013,C1082,Equipamento,577.88,13/08/2024,Dinheiro
-V2014,C1077,Equipamento,562.62,25/04/2025,debito
-V2015,C1040,Equipamento,646.76,12/05/2025,debito
-V2016,C1083,Equipamento,1085.63,17/11/2024,debito
-V2017,C1034,Aula Personal,571.33,03/12/2024,debito
+V2014,C1077,Equipamento,562.62,25/04/2025,Débito
+V2015,C1040,Equipamento,646.76,12/05/2025,Débito
+V2016,C1083,Equipamento,1085.63,17/11/2024,Débito
+V2017,C1034,Aula Personal,571.33,03/12/2024,Débito
 V2018,C1040,Equipamento,856.23,04/08/2024,Dinheiro
 V2019,C1069,Plano Anual,204.28,28/05/2024,Dinheiro
 V2020,C1084,Aula Personal,391.27,04/05/2025,Pix
-V2021,C1098,Aula Personal,741.93,31/12/2024,debito
-V2022,C1054,Plano Trimestral,190.23,24/07/2024,debito
-V2023,C1025,Plano Mensal,59.32,29/05/2024,cartao de credito
-V2024,C1017,Aula Personal,926.95,19/11/2024,debito
+V2021,C1098,Aula Personal,741.93,31/12/2024,Débito
+V2022,C1054,Plano Trimestral,190.23,24/07/2024,Débito
+V2023,C1025,Plano Mensal,59.32,29/05/2024,Cartão de Crédito
+V2024,C1017,Aula Personal,926.95,19/11/2024,Débito
 V2025,C1074,Suplemento,944.12,12/05/2025,Dinheiro
-V2026,C1007,Suplemento,510.75,08/04/2025,cartao de credito
-V2027,C1033,Suplemento,909.89,30/06/2024,debito
+V2026,C1007,Suplemento,510.75,08/04/2025,Cartão de Crédito
+V2027,C1033,Suplemento,909.89,30/06/2024,Débito
 V2028,C1090,Plano Anual,948.95,15/03/2025,Dinheiro
-V2029,C1057,Plano Anual,748.42,04/02/2025,debito
+V2029,C1057,Plano Anual,748.42,04/02/2025,Débito
 V2030,C1033,Suplemento,938.45,21/04/2025,Pix
 V2031,C1057,Equipamento,1065.86,18/06/2024,Pix
-V2032,C1066,Plano Trimestral,701.76,22/07/2024,cartao de credito
-V2033,C1054,Suplemento,690.23,13/04/2025,cartao de credito
-V2034,C1010,Equipamento,983.24,28/11/2024,cartao de credito
+V2032,C1066,Plano Trimestral,701.76,22/07/2024,Cartão de Crédito
+V2033,C1054,Suplemento,690.23,13/04/2025,Cartão de Crédito
+V2034,C1010,Equipamento,983.24,28/11/2024,Cartão de Crédito
 V2035,C1046,Plano Anual,853.78,30/07/2024,Pix
-V2036,C1096,Plano Mensal,502.57,01/12/2024,debito
-V2037,C1025,Plano Anual,1037.39,06/08/2024,cartao de credito
-V2038,C1007,Plano Anual,676.31,03/06/2024,debito
-V2039,C1029,Plano Anual,415.69,10/05/2025,cartao de credito
-V2040,C1041,Plano Anual,60.66,02/09/2024,debito
-V2041,C1095,Plano Trimestral,203.77,23/12/2024,cartao de credito
+V2036,C1096,Plano Mensal,502.57,01/12/2024,Débito
+V2037,C1025,Plano Anual,1037.39,06/08/2024,Cartão de Crédito
+V2038,C1007,Plano Anual,676.31,03/06/2024,Débito
+V2039,C1029,Plano Anual,415.69,10/05/2025,Cartão de Crédito
+V2040,C1041,Plano Anual,60.66,02/09/2024,Débito
+V2041,C1095,Plano Trimestral,203.77,23/12/2024,Cartão de Crédito
 V2042,C1099,Plano Anual,247.77,22/12/2024,Pix
 V2043,C1008,Plano Mensal,342.92,07/10/2024,Pix
 V2044,C1009,Equipamento,524.78,24/10/2024,Pix
 V2045,C1002,Plano Anual,208.09,17/03/2025,Dinheiro
-V2046,C1037,Equipamento,927.92,05/03/2025,debito
+V2046,C1037,Equipamento,927.92,05/03/2025,Débito
 V2047,C1059,Suplemento,957.96,27/01/2025,Pix
-V2048,C1059,Suplemento,892.07,17/04/2025,cartao de credito
+V2048,C1059,Suplemento,892.07,17/04/2025,Cartão de Crédito
 V2049,C1092,Aula Personal,976.3,13/07/2024,Dinheiro
 V2050,C1039,Plano Trimestral,419.11,05/03/2025,Dinheiro
-V2051,C1065,Suplemento,1024.49,20/06/2024,debito
+V2051,C1065,Suplemento,1024.49,20/06/2024,Débito
 V2052,C1068,Aula Personal,637.7,18/07/2024,Dinheiro
 V2053,C1079,Aula Personal,122.63,25/04/2025,Pix
 V2054,C1031,Plano Trimestral,956.66,30/06/2024,Pix
-V2055,C1023,Suplemento,1109.76,25/06/2024,cartao de credito
-V2056,C1084,Equipamento,189.6,22/07/2024,debito
-V2057,C1040,Plano Mensal,627.68,19/01/2025,cartao de credito
-V2058,C1061,Plano Mensal,739.75,18/04/2025,debito
-V2059,C1068,Plano Anual,832.22,19/04/2025,cartao de credito
+V2055,C1023,Suplemento,1109.76,25/06/2024,Cartão de Crédito
+V2056,C1084,Equipamento,189.6,22/07/2024,Débito
+V2057,C1040,Plano Mensal,627.68,19/01/2025,Cartão de Crédito
+V2058,C1061,Plano Mensal,739.75,18/04/2025,Débito
+V2059,C1068,Plano Anual,832.22,19/04/2025,Cartão de Crédito
 V2060,C1083,Suplemento,340.5,14/01/2025,Pix
 V2061,C1065,Plano Mensal,1087.56,27/11/2024,Dinheiro
-V2062,C1004,Suplemento,1041.44,10/11/2024,cartao de credito
+V2062,C1004,Suplemento,1041.44,10/11/2024,Cartão de Crédito
 V2063,C1088,Equipamento,256.67,02/10/2024,Dinheiro
-V2064,C1052,Equipamento,265.73,26/12/2024,cartao de credito
+V2064,C1052,Equipamento,265.73,26/12/2024,Cartão de Crédito
 V2065,C1058,Plano Trimestral,817.99,01/03/2025,Pix
-V2066,C1045,Plano Mensal,792.71,11/12/2024,cartao de credito
-V2067,C1052,Plano Anual,234.62,27/09/2024,debito
-V2068,C1060,Plano Mensal,229.2,13/04/2025,cartao de credito
-V2069,C1088,Plano Trimestral,1007.67,09/05/2025,debito
-V2070,C1057,Plano Trimestral,165.52,27/06/2024,debito
+V2066,C1045,Plano Mensal,792.71,11/12/2024,Cartão de Crédito
+V2067,C1052,Plano Anual,234.62,27/09/2024,Débito
+V2068,C1060,Plano Mensal,229.2,13/04/2025,Cartão de Crédito
+V2069,C1088,Plano Trimestral,1007.67,09/05/2025,Débito
+V2070,C1057,Plano Trimestral,165.52,27/06/2024,Débito
 V2071,C1033,Plano Trimestral,1012.18,17/03/2025,Dinheiro
-V2072,C1021,Aula Personal,860.52,26/10/2024,cartao de credito
-V2073,C1045,Plano Mensal,647.75,22/04/2025,cartao de credito
-V2074,C1064,Plano Trimestral,655.53,20/02/2025,debito
+V2072,C1021,Aula Personal,860.52,26/10/2024,Cartão de Crédito
+V2073,C1045,Plano Mensal,647.75,22/04/2025,Cartão de Crédito
+V2074,C1064,Plano Trimestral,655.53,20/02/2025,Débito
 V2075,C1069,Suplemento,96.62,07/12/2024,Dinheiro
-V2076,C1022,Plano Trimestral,868,25/03/2025,debito
+V2076,C1022,Plano Trimestral,868,25/03/2025,Débito
 V2077,C1084,Suplemento,690.06,09/03/2025,Dinheiro
-V2078,C1023,Plano Anual,552.67,25/05/2024,debito
+V2078,C1023,Plano Anual,552.67,25/05/2024,Débito
 V2079,C1011,Plano Trimestral,390.3,05/07/2024,Dinheiro
-V2080,C1022,Plano Anual,513.23,29/03/2025,cartao de credito
+V2080,C1022,Plano Anual,513.23,29/03/2025,Cartão de Crédito
 V2081,C1021,Plano Mensal,842.2,07/03/2025,Dinheiro
 V2082,C1080,Plano Trimestral,127.37,03/10/2024,Pix
 V2083,C1090,Suplemento,908.73,18/11/2024,Pix
-V2084,C1075,Plano Trimestral,246.43,14/05/2025,debito
+V2084,C1075,Plano Trimestral,246.43,14/05/2025,Débito
 V2085,C1027,Aula Personal,796.1,28/05/2024,Dinheiro
-V2086,C1096,Plano Trimestral,590.56,31/07/2024,debito
+V2086,C1096,Plano Trimestral,590.56,31/07/2024,Débito
 V2087,C1094,Suplemento,475.43,16/06/2024,Dinheiro
-V2088,C1065,Plano Anual,393.99,29/12/2024,cartao de credito
+V2088,C1065,Plano Anual,393.99,29/12/2024,Cartão de Crédito
 V2089,C1021,Plano Mensal,1076.52,16/03/2025,Pix
 V2090,C1095,Plano Mensal,975.67,04/10/2024,Pix
-V2091,C1046,Plano Trimestral,484.14,14/04/2025,cartao de credito
-V2092,C1021,Aula Personal,1023.33,16/09/2024,debito
+V2091,C1046,Plano Trimestral,484.14,14/04/2025,Cartão de Crédito
+V2092,C1021,Aula Personal,1023.33,16/09/2024,Débito
 V2093,C1078,Aula Personal,1179.67,15/02/2025,Pix
-V2094,C1005,Plano Anual,791.53,03/01/2025,debito
+V2094,C1005,Plano Anual,791.53,03/01/2025,Débito
 V2095,C1098,Plano Trimestral,571.67,02/02/2025,Pix
 V2096,C1060,Aula Personal,1089.4,19/01/2025,Dinheiro
 V2097,C1049,Plano Anual,348.56,14/01/2025,Pix
-V2098,C1059,Suplemento,104.2,17/02/2025,debito
-V2099,C1053,Plano Trimestral,793.24,29/01/2025,debito
+V2098,C1059,Suplemento,104.2,17/02/2025,Débito
+V2099,C1053,Plano Trimestral,793.24,29/01/2025,Débito
